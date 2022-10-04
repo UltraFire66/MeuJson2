@@ -1,0 +1,24 @@
+{
+ 
+	
+     "produtos": [{
+	      "idProduto": 1,
+	      "nome": "desodorante",
+	      "quantidade": 5,
+	      "marca": "old spice",
+	      "Idfornecedor": 5
+     }],
+     
+     "fornecedor": [{
+	      "idFornecedor": 5,
+	      "nome": "old spice",
+	      "endereço": {
+	        "cidade": "Cidade sede",
+	        "rua": "rua do desodorante sla",
+	        "numero": 55
+	      }
+     }]
+
+
+
+}
